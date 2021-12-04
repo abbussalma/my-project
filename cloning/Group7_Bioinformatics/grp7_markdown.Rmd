@@ -1,0 +1,95 @@
+# INTRODUCTION TO BIOINFORMATICS TEST BY GROUP 7
+
+## GROUP NAME: 
+Group 7 Bioinformatics
+
+## ABOUT THE GROUP
+
+Is a group one in which  comprises  about 15 members of anatommy department 400L, work under the leading of Umar Muhammad, which work together in order to archive the success of the work using different types of programming languages e.g Python, R, Bash e.t.c
+
+## NAMES OF ALL MEMBERS OF THE GROUP:
+
+Umar Muhammad  
+Sulaiman Ibrahim
+Anas Rabiu Mohammed
+Asmau Aliyu 
+Abdulbasid Jibrin Muhd 
+Ismail Aliyu Zadawa 
+Kawure Abdullahi  
+Sulaiman Ahmad 
+Ismail Haladu Aliyu  
+Abdulazeez Yunusa
+Tamar DaudaChongdah
+Shuaibu Saratu
+Maijamaa Mustapha Ladan
+Shabbiru Yushau Haruna
+Abdussalam Aisha Musa
+
+## TABLE
+| GROUP MEMBERS  | PROGRAMMING LANGUAGES USED |
+| ------------- | ------------- |
+| Umar Muhammad  | Bash script  |
+| Sulaiman Ibrahim  |Bash script  |
+| Anas Rabiu  | Javascript |
+| Asmau Aliyu  | Python |
+| Aisha Abdussalam  | Python  |
+| Ismail Aliyu Zadawa  | R  |
+| Kawure Abdullahi  | c++|
+| Sulaiman Ahmad  | Java  |
+| Ismail Haladu Aliyu  | java  |
+| Abdulazeez Yunusa | R  |
+| Tamar Dauda  | C++  |
+| Shabbiru yushau Haruna  | C++  |
+| Saratu Shuaibu  | Python  |
+| Abdulbasid Jibrin Muhd  | Java  |
+| Mustpha  Maijamaa Ladan  | Not Submitted  |
+
+
+## W0RKFLOW
+
+![Group7 workflow-page0001](https://user-images.githubusercontent.com/94013467/143781333-e48d7cd0-2a44-4a0d-abad-e9a8a5d2e355.jpg)
+
+## HELP:
+
+The work was archieved by consulting Youtube, Internet browser and using some code,  with the help of some group members and other personel toward the archievement of the work.
+
+## ACKNOWLEDGMENT:
+
+First and foremost, i wish to express my gratitude to Almighty Allah for the life, opportunity and guidance given to me before and during my studies as well as during this test. I will also like to extend my gratitude to my instructor, lecturer and mentor, in person of Dr. Umar Ahmad toward his untireless mandate to us. My great sincere to the group 3 leader in person of Aliyu A. Ahmad toward his unrelax during this work and also my great sincere to my beloved parent, wife, my daugther Salma, all my well-wishers and also my acknowledge remain incomplete by ignoring the remarkable figures of my department in persons of M. Murtala Jibrin, HOD M. Bashir, M. Maryam and my group members, may Almighty Allah bless you all.   
+
+## PICTURES OF THE GROUP MEMBERS
+
+![umar muhammad](https://user-images.githubusercontent.com/94013467/143778187-ef5ead71-0414-4f9a-a954-c3ce6d381002.jpg)
+
+![usheu](https://user-images.githubusercontent.com/94013467/143778171-7f296f11-da99-436a-a982-99c314ffbfdf.jpg)
+Shabbiru Yushaub 
+
+![asmau](https://user-images.githubusercontent.com/94013467/143778173-da60df0b-991e-441c-a1fc-ea6d538b6233.jpg)
+Asmau Aliyu
+
+![abdulazeez](https://user-images.githubusercontent.com/94013467/143778174-4d03a1b3-026c-4f76-9035-048c16996e07.jpg)
+Abdulazeez Yunusa
+
+![sulaimanA](https://user-images.githubusercontent.com/94013467/143778175-35273d7a-3cb0-49d6-9223-1934552c2997.jpg)
+Sulaiman Ahmad
+
+![SuleimanI](https://user-images.githubusercontent.com/94013467/143778177-bd565511-8cef-4c03-95a7-cb35b04aabf2.jpg)
+Sulaiman Ibrahim
+
+![IsmailZ](https://user-images.githubusercontent.com/94013467/143778179-e4e1571c-da1b-4918-a497-25c9fc067d4d.jpg)
+Ismail Aliyu
+
+![Anas](https://user-images.githubusercontent.com/94013467/143778182-6fa4b54e-fef9-4a48-b302-c97514ada97b.jpg)
+Anas Rabiu
+
+![aisha](https://user-images.githubusercontent.com/94013467/143778183-13136e63-af5c-4de3-9880-4d15763cdc0a.jpg)
+Aisha Abdussalam
+
+![excellency](https://user-images.githubusercontent.com/94013467/143778184-970f025d-8173-4028-8ef0-c6f39f7343f6.jpg)
+Ismail Haladu Aliyu
+
+![tamar](https://user-images.githubusercontent.com/94013467/143778186-e18ae284-7110-408c-88c8-5a820c17193b.jpg)
+Tamar  Chongdah Dauda
+
+![abdul](https://user-images.githubusercontent.com/94013467/143958213-303538e8-6cab-4578-9971-311b34c6a827.jpg)
+Abdulbasid Jibrin Muhd
